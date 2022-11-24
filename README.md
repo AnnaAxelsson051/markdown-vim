@@ -12,6 +12,12 @@ And this is the second line.
 
 In this project we will be working with databases.
 
+>We will be using Docker, Vim, Bash and Git
+>
+>We will be creating a Springboot application. Spring Boot makes it easy to 
+>create stand-alone, production-grade Spring based applications.
+
+
 1. First item
 2. Second item
 3. Third item
