@@ -4,7 +4,7 @@
 
 ## Heading level 2
 
-This is the ** first** line.  
+This is the **first** line.  
 And this is the second line
 This is the first line.  
 And this is the second line.
